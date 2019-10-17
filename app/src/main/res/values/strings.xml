@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">E-Cinema</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">100% FREE</string>
+    <string name="slide_1_desc">Enjoy your full movie for 100% free!</string>
+
+    <string name="slide_2_title">Best Quality only</string>
+    <string name="slide_2_desc">Get an amazing experience with FULL HD Quality</string>
+</resources>
