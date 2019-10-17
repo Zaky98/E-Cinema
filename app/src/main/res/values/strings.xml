@@ -13,4 +13,13 @@
 
     <string name="slide_2_title">Best Quality only</string>
     <string name="slide_2_desc">Get an amazing experience with FULL HD Quality</string>
+
+    <string name="about_info">
+        E-Cinema is a free application that provides streaming services for a variety of selected films with FULL HD <quality class=""></quality>
+    </string>
+
+    <string name="about_dev_desc">Zaky Maula Luthfansa</string>
+    <string name="about_dev_email">zakyluthfansa@gmail.com</string>
+    <string name="about_dev_hp">085232665534</string>
+
 </resources>
